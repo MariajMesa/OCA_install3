@@ -4,4 +4,4 @@
 sudo git clone hhtps://github.com/OCA/l10n-spain.git -b 10.0 /opt/odoo/l10n-spain
 
 # 2.-Acceso directo
-sudo ln -s /opt/odoo/l10n-spain//l10n_es_toponyms /opt/odoo/custom/addons
+sudo ln -s /opt/odoo/l10n-spain/l10n_es_toponyms /opt/odoo/custom/addons

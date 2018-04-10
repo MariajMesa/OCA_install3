@@ -83,7 +83,7 @@ sudo ln -s $OE_HOME/bank-statement-import/account_bank_statement_import/ $OE_HOM
 sudo ln -s $OE_HOME/pos/pos_pricelist/ $OE_HOME/custom/addons/
 
 
-sudo ln -s $OE_HOME/l10n-spain/account_balance_reporting_xls/ $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/l10n-spain/account_balance_reporting_xlsx/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_mandate/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/bank-payment/account_banking_pain_base/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_payment_export/ $OE_HOME/custom/addons/
@@ -96,7 +96,7 @@ sudo ln -s $OE_HOME/partner-contact/base_location_geonames_import/ $OE_HOME/cust
 sudo ln -s $OE_HOME/knowledge/document_page/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/knowledge/document_url/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/reporting-engine/report_custom_filename/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/reporting-engine/report_xls/ $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/reporting-engine/report_xlsx/ $OE_HOME/custom/addons/
 
 sudo ln -s $OE_HOME/account-payment/account_due_list $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-payment/account_due_list_payment_mode $OE_HOME/custom/addons/

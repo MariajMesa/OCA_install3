@@ -94,7 +94,6 @@ sudo ln -s $OE_HOME/knowledge/attachments_to_filesystem/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/partner-contact/base_location_geonames_import/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/knowledge/document_page/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/knowledge/document_url/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/reporting-engine/report_custom_filename/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/reporting-engine/report_xlsx/ $OE_HOME/custom/addons/
 
 sudo ln -s $OE_HOME/account-payment/account_due_list $OE_HOME/custom/addons/

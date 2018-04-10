@@ -86,7 +86,6 @@ sudo ln -s $OE_HOME/pos/pos_pricelist/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/account_balance_reporting_xlsx/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_mandate/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/bank-payment/account_banking_pain_base/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/bank-payment/account_banking_payment_export/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_payment_transfer/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_sepa_direct_debit/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_direct_debit/ $OE_HOME/custom/addons/

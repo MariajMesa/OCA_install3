@@ -63,8 +63,6 @@ sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod111/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod115/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod130/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod303/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod340_type0/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod340/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod347/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod349/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat/ $OE_HOME/custom/addons/

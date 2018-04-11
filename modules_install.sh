@@ -86,6 +86,7 @@ sudo ln -s $OE_HOME/bank-payment/account_payment_order/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_payment_mode/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/server-tools/date_range/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-financial-reporting/account_tax_balance $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/knowledge/knowledge/ $OE_HOME/custom/addons/
 
 
 

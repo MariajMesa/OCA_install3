@@ -55,7 +55,6 @@ sudo ln -s $OE_HOME/knowledge/document_url/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_account_fiscal_year_closing// $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/account_balance_reporting_xlsx/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/account_balance_reporting/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/l10n-spain/account_refund_original $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_account_asset/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_account_balance_report/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_account_bank_statement_import_n43/ $OE_HOME/custom/addons/

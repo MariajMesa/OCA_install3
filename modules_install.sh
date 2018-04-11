@@ -31,7 +31,7 @@ sudo git clone --branch 10.0 https://github.com/OCA/bank-payment.git $OE_HOME/ba
 sudo git clone --branch 10.0 https://github.com/OCA/knowledge.git $OE_HOME/knowledge
 sudo git clone --branch 10.0 https://github.com/OCA/pos.git $OE_HOME/pos
 sudo git clone --branch 10.0 https://github.com/OCA/bank-statement-import.git $OE_HOME/bank-statement-import
-sudo git clone --branch 10.0 https://github.com/OCA/account-invoicingaccount-invoicing.git $OE_HOME/account-invoicing
+sudo git clone --branch 10.0 https://github.com/OCA/account-invoicing.git $OE_HOME/account-invoicing
 
 echo -e "\n---- Create some links ----"
 sudo ln -s $OE_HOME/account-financial-reporting/account_export_csv $OE_HOME/custom/addons/
@@ -45,8 +45,6 @@ sudo ln -s $OE_HOME/account-payment/account_due_list $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-payment/account_due_list_payment_mode $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_mandate/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/bank-payment/account_banking_pain_base/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/bank-payment/account_banking_payment_export/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/bank-payment/account_banking_payment_transfer/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_banking_sepa_direct_debit/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_payment_partner $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-statement-import/account_bank_statement_import_43/ $OE_HOME/custom/addons/

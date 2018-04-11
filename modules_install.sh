@@ -82,6 +82,7 @@ sudo ln -s $OE_HOME/server-tools/disable_odoo_online/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/server-tools/mass_editing/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/web/web_export_view/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-invoicing/account_invoice_refund_link/ $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/bank-payment/account_payment_order/ $OE_HOME/custom/addons/ 
 
 
 

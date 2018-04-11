@@ -84,7 +84,7 @@ sudo ln -s $OE_HOME/web/web_export_view/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-invoicing/account_invoice_refund_link/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/bank-payment/account_payment_order/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/bank-payment/account_payment_mode/ $OE_HOME/custom/addons/ 
-
+sudo ln -s $OE_HOME/server-tools/date_range/ $OE_HOME/custom/addons/
 
 
 echo -e "\n---- Setting permissions on home folder ----"

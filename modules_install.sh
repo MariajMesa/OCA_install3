@@ -62,7 +62,6 @@ sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat_mod349/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_aeat/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_partner_mercantil/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_partner/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/l10n-spain/l10n_es_pos/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es_toponyms/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/l10n-spain/l10n_es/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/partner-contact/base_location $OE_HOME/custom/addons/

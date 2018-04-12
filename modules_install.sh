@@ -72,6 +72,7 @@ sudo ln -s $OE_HOME/server-tools/date_range/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-financial-reporting/account_tax_balance/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/knowledge/knowledge/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-closing/account_fiscal_year_closing/ $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/account-financial-tools/account_reversal/ $OE_HOME/custom/addons/
 
 
 

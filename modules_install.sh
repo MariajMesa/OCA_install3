@@ -32,6 +32,7 @@ sudo git clone --branch 10.0 https://github.com/OCA/knowledge.git $OE_HOME/knowl
 sudo git clone --branch 10.0 https://github.com/OCA/pos.git $OE_HOME/pos
 sudo git clone --branch 10.0 https://github.com/OCA/bank-statement-import.git $OE_HOME/bank-statement-import
 sudo git clone --branch 10.0 https://github.com/OCA/account-invoicing.git $OE_HOME/account-invoicing
+sudo git clone --branch 10.0 https://github.com/OCA/account-closing.git $OE_HOME/account-closing
 
 echo -e "\n---- Create some links ----"
 sudo ln -s $OE_HOME/account-financial-tools/account_chart_update $OE_HOME/custom/addons/
@@ -68,8 +69,10 @@ sudo ln -s $OE_HOME/account-invoicing/account_invoice_refund_link/ $OE_HOME/cust
 sudo ln -s $OE_HOME/bank-payment/account_payment_order/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/bank-payment/account_payment_mode/ $OE_HOME/custom/addons/ 
 sudo ln -s $OE_HOME/server-tools/date_range/ $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/account-financial-reporting/account_tax_balance $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/account-financial-reporting/account_tax_balance/ $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/knowledge/knowledge/ $OE_HOME/custom/addons/
+sudo ln -s $OE_HOME/account-closing/account_fiscal_year_closing/ $OE_HOME/custom/addons/
+
 
 
 

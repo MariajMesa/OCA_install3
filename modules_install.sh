@@ -37,7 +37,6 @@ echo -e "\n---- Create some links ----"
 sudo ln -s $OE_HOME/account-financial-tools/account_chart_update $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-financial-tools/account_invoice_constraint_chronology $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-financial-tools/account_invoice_currency $OE_HOME/custom/addons/
-sudo ln -s $OE_HOME/account-financial-tools/account_journal_always_check_date $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-financial-tools/account_renumber $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-payment/account_due_list $OE_HOME/custom/addons/
 sudo ln -s $OE_HOME/account-payment/account_due_list_payment_mode $OE_HOME/custom/addons/
